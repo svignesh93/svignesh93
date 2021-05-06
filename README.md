@@ -4,7 +4,7 @@
 
 :wrench: I'm a Developer, working on Android and AOSP stuffs for about 5.3 years.
 
-:mag_right: I'm interested and looking for new work opportunities for an immediate role.
+:mag_right: I'm interested and looking for new gigs.
 
 :briefcase: I previously worked at <a href="https://www.visteon.com">Visteon Corporation</a> and contributed to System Privileged Android Apps for Android Automotive OS.
 
