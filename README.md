@@ -11,3 +11,14 @@
 :heart: I contribute to open source tech and I publish open source libraries, apps and samples.
 
 :fire: I publish tech content on <a href="https://dev.to/svignesh93">Dev</a>
+
+##
+
+### Languages & Tools
+
+<p>
+  <a href="https://www.android.com/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/android.svg" width="15%" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/kotlin.svg" width="3%" hspace="1%" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/java.svg" width="3%" /></a>
+  <a href="https://sqlite.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/sqlite.svg" width="7%" hspace="1%" /></a>
+</p>
