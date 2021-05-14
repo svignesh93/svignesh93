@@ -17,8 +17,11 @@
 ### Languages & Tools
 
 <p>
-  <a href="https://www.android.com/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/android.svg" width="15%" /></a>
-  <a href="https://kotlinlang.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/kotlin.svg" width="3%" hspace="1%" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/java.svg" width="3%" /></a>
-  <a href="https://sqlite.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/sqlite.svg" width="7%" hspace="1%" /></a>
+  <a href="https://gradle.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/gradle.svg" width="5%" /></a>
+  <a href="https://www.android.com/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/android.svg" width="15%" hspace="1%" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/kotlin.svg" width="3%" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/java.svg" width="3%" hspace="1%" /></a>
+  <a href="https://sqlite.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/sqlite.svg" width="7%" /></a>
+  <a href="https://www.json.org/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/json.svg" width="4%" hspace="1%" /></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/svignesh93/svignesh93/blob/main/assets/git-icon.svg" width="4%" /></a>
 </p>
