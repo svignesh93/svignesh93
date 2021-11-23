@@ -2,7 +2,7 @@
 
 :octocat: I'm Vignesh S.
 
-:wrench: I'm a Developer, working on Android and AOSP stuffs for about 5.9 years.
+:wrench: I'm a Developer, working on Android and AOSP stuffs for about 5.10 years.
 
 :mag_right: I'm interested and looking for new gigs.
 
