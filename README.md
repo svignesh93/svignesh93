@@ -6,7 +6,7 @@
 
 :mag_right: I'm interested and looking for new gigs.
 
-:briefcase: I previously worked at <a href="https://www.visteon.com">Visteon Corporation</a> and contributed to System Privileged Android Apps for Android Automotive OS.
+:briefcase: I previously worked at <a href="https://www.luxoft.com">Luxoft</a> and <a href="https://www.visteon.com">Visteon Corporation</a> and contributed to System Privileged Android Apps for Android Automotive OS.
 
 :heart: I contribute to open source tech and I publish open source libraries, apps and samples.
 
